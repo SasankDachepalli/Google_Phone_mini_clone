@@ -8,3 +8,4 @@ For every contact in the main activity 2, i have added intents for calling, text
 
 Recents are added when we make a call from favourites or frequently visited. Still working for recents.
 
+I have added some screenshots of the app in photos folder
